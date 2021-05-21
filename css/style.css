@@ -98,7 +98,7 @@
 	opacity: 0.5;
 }
 .section2-conteiner {
-	width: 1171px;
+	width: 100%;
 	height: 965px;
 	margin: 0 auto;
 	background-color: #FAFAFA;
@@ -120,6 +120,7 @@
 .conteiner {
 	width: 1164px;
 	height: 780px;
+	margin: 0 auto;
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-between;
